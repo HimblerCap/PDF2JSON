@@ -1,13 +1,13 @@
 var datass = '';
 var DataArr = [];
 var json = [];
+var json_2 = [];
 PDFJS.workerSrc = '';
 
 function ExtractText() {
     var input = document.getElementById("file-id");
     var fReader = new FileReader();
     fReader.readAsDataURL(input.files[0]);
-    // console.log(input.files[0]);
     fReader.onloadend = function (event) {
         convertDataURIToBinary(event.target.result);
     }
@@ -126,7 +126,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 1,
                             'Secciones': [],
                         })
@@ -134,7 +134,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 1,
                             'Secciones': [],
                         })  
@@ -144,7 +144,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 2,
                             'Secciones': [],
                         })
@@ -152,7 +152,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 2,
                             'Secciones': [],
                         })  
@@ -162,7 +162,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 3,
                             'Secciones': [],
                         })
@@ -170,7 +170,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 3,
                             'Secciones': [],
                         })  
@@ -180,7 +180,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 4,
                             'Secciones': [],
                         })
@@ -188,7 +188,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 4,
                             'Secciones': [],
                         })  
@@ -198,7 +198,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 5,
                             'Secciones': [],
                         })
@@ -206,7 +206,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 5,
                             'Secciones': [],
                         })  
@@ -216,7 +216,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 6,
                             'Secciones': [],
                         })
@@ -224,7 +224,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 6,
                             'Secciones': [],
                         })  
@@ -234,7 +234,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 7,
                             'Secciones': [],
                         })
@@ -242,7 +242,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 7,
                             'Secciones': [],
                         })  
@@ -252,7 +252,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 8,
                             'Secciones': [],
                         })
@@ -260,7 +260,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 8,
                             'Secciones': [],
                         })  
@@ -270,7 +270,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 9,
                             'Secciones': [],
                         })
@@ -278,7 +278,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 9,
                             'Secciones': [],
                         })  
@@ -288,7 +288,7 @@ function pdfAsArray(pdfAsArray) {
                     if (i === 0){
                         json_data.push({
                             'Codigo' : data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 10,
                             'Secciones': [],
                         })
@@ -296,7 +296,7 @@ function pdfAsArray(pdfAsArray) {
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
                             'Codigo': data[i][0],
-                            'Nombre': data[i][1].trim(),
+                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 10,
                             'Secciones': [],
                         })  
@@ -359,6 +359,122 @@ function pdfAsArray(pdfAsArray) {
             json = json_data;
             console.log(json_data);
 
+            //Second JSON
+            json_data_2 = {"data": []};
+            for (var i = 0; i < data.length; i++){
+                if(data[i][0].includes(ciclo_1)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "PRIMER CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_2)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "SEGUNDO CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_3)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "TERCER CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_4)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "CUARTO CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_5)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "QUINTO CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_6)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "SEXTO CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_7)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "SEPTIMO CICLO",
+                    ]);
+                }
+                else if(data[i][1].includes(ciclo_8)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "OCTAVO CICLO",
+                    ]);    
+                }
+                else if(data[i][1].includes(ciclo_9)){
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "NOVENO CICLO",
+                    ]);
+                }
+                else {
+                    json_data_2.data.push([
+                        data[i][0],
+                        data[i][1].trim(),
+                        data[i][2],
+                        data[i][3],
+                        data[i][5],
+                        data[i][6],
+                        "DECIMO CICLO",
+                    ]);    
+                }
+            }
+            console.log(json_data_2);
+
         });
 
     }, function (reason) {
@@ -376,7 +492,11 @@ function download(content, fileName, contentType){
 }
 
 function getJson(){
-    download(JSON.stringify(json), 'horario.json', "text/plain");
+    download(JSON.stringify(json), 'horario.json', "text/plain")
+}
+
+function getJson2(){
+    download(JSON.stringify(json_data_2), 'horarioUltimo.json', "text/plain");
 }
 
     
