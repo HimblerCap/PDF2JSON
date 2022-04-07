@@ -1,0 +1,5494 @@
+{
+  "data": [
+    [
+      "BFI01",
+      "FÍSICA I",
+      "M",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "HUALLPA GUTIERREZ, WALTER",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "M",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "HUALLPA GUTIERREZ, WALTER",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "M",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "HUALLPA GUTIERREZ, WALTER",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "M",
+      "L",
+      "JU",
+      "08:00-10:00",
+      "HUALLPA GUTIERREZ, WALTER",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "N",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "LLAMOJA CURI, JOHNNY",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "N",
+      "T",
+      "MI",
+      "08:00-10:00",
+      "LLAMOJA CURI, JOHNNY",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "N",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "LLAMOJA CURI, JOHNNY",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "N",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "LLAMOJA CURI, JOHNNY",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "O",
+      "T",
+      "LU",
+      "08:00-10:00",
+      "CARO AMERY. JOSE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "O",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "CARO AMERY. JOSE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "O",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "DURAND BERNALD, LUIS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI01",
+      "FÍSICA I",
+      "O",
+      "L",
+      "JU",
+      "14:00-16:00",
+      "DURAND BERNALD, LUIS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BIC01",
+      "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "M",
+      "T",
+      "LU",
+      "13:00-14:00",
+      "ROJAS VILLANUEVA, UWE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BIC01",
+      "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "M",
+      "P",
+      "LU",
+      "14:00-16:00",
+      "ROJAS VILLANUEVA, UWE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BIC01",
+      "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "N",
+      "T",
+      "LU",
+      "14:00-15:00",
+      "ROJAS VARGAS, CAROLYN",
+      "PRIMER CICLO"
+    ],
+    [
+      "BIC01",
+      "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "N",
+      "P",
+      "LU",
+      "15:00-17:00",
+      "ROJAS VARGAS, CAROLYN",
+      "PRIMER CICLO"
+    ],
+    [
+      "BIC01",
+      "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "O",
+      "T",
+      "MI",
+      "10:00-11:00",
+      "ROJAS VARGAS, CAROLYN",
+      "PRIMER CICLO"
+    ],
+    [
+      "BIC01",
+      "INTRODUCCIÓN A LA COMPUTACIÓN",
+      "O",
+      "P",
+      "MI",
+      "11:00-13:00",
+      "ROJAS VARGAS, CAROLYN",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "M",
+      "T",
+      "LU",
+      "08.00-10.00",
+      "SAAL RIQUEROS, CESAR",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "M",
+      "T",
+      "VI",
+      "10:00-12:00",
+      "SAAL RIQUEROS, CESAR",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "M",
+      "P",
+      "MA",
+      "10:00-12:00",
+      "SAAL RIQUEROS, CESAR",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "N",
+      "T",
+      "MI",
+      "14.00-16:00",
+      "ORIA CHAVARRIA, MARIO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "N",
+      "T",
+      "JU",
+      "08:00-10:00",
+      "ORIA CHAVARRIA, MARIO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "N",
+      "P",
+      "MA",
+      "10:00-12:00",
+      "ORIA CHAVARRIA, MARIO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "O",
+      "T",
+      "LU",
+      "14:00-16:00",
+      "CORNEJO HUAMAN, JORGE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "O",
+      "T",
+      "VI",
+      "10:00-12:00",
+      "CORNEJO HUAMAN, JORGE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA01",
+      "CALCULO DIFERENCIAL",
+      "O",
+      "P",
+      "MA",
+      "10:00-12:00",
+      "CORNEJO HUAMAN, JORGE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA03",
+      "ALGEBRA LINEAL",
+      "M",
+      "T",
+      "MA",
+      "14:00-17:00",
+      "SALINAS AQUIJE, TEOFILO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA03",
+      "ALGEBRA LINEAL",
+      "M",
+      "P",
+      "JU",
+      "11:00-13:00",
+      "SALINAS AQUIJE, TEOFILO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA03",
+      "ALGEBRA LINEAL",
+      "N",
+      "T",
+      "VI",
+      "10:00-13:00",
+      "ERQUIZIO ESPINAL, JOSE EDUARDO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA03",
+      "ALGEBRA LINEAL",
+      "N",
+      "P",
+      "JU",
+      "11:00-13:00",
+      "ERQUIZIO ESPINAL, JOSE EDUARDO",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA03",
+      "ALGEBRA LINEAL",
+      "O",
+      "T",
+      "MA",
+      "14:00-17:00",
+      "VALENCIA MIRANDA, ANGEL",
+      "PRIMER CICLO"
+    ],
+    [
+      "BMA03",
+      "ALGEBRA LINEAL",
+      "O",
+      "P",
+      "JU",
+      "11:00-13:00",
+      "VALENCIA MIRANDA, ANGEL",
+      "PRIMER CICLO"
+    ],
+    [
+      "BRN01",
+      "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "M",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BRN01",
+      "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "M",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BRN01",
+      "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "N",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BRN01",
+      "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "N",
+      "P",
+      "VI",
+      "16:00-18:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BRN01",
+      "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "O",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "PRIMER CICLO"
+    ],
+    [
+      "BRN01",
+      "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+      "O",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "PRIMER CICLO"
+    ],
+    [
+      "EE250",
+      "DIBUJO TÉCNICO",
+      "M",
+      "T",
+      "MI",
+      "17:00-19:00",
+      "ALMORA RIVAS, ENRIQUE",
+      "PRIMER CICLO"
+    ],
+    [
+      "EE250",
+      "DIBUJO TÉCNICO",
+      "M",
+      "P",
+      "MI",
+      "19:00-21:00",
+      "ALMORA RIVAS, ENRIQUE",
+      "PRIMER CICLO"
+    ],
+    [
+      "EE250",
+      "DIBUJO TÉCNICO",
+      "N",
+      "T",
+      "JU",
+      "18.00-20:00",
+      "ALMORA RIVAS, ENRIQUE",
+      "PRIMER CICLO"
+    ],
+    [
+      "EE250",
+      "DIBUJO TÉCNICO",
+      "N",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "ALMORA RIVAS, ENRIQUE",
+      "PRIMER CICLO"
+    ],
+    [
+      "EE250",
+      "DIBUJO TÉCNICO",
+      "O",
+      "T",
+      "VI",
+      "17:00-19:00",
+      "ALMORA RIVAS, ENRIQUE",
+      "PRIMER CICLO"
+    ],
+    [
+      "EE250",
+      "DIBUJO TÉCNICO",
+      "O",
+      "P",
+      "VI",
+      "19:00-21:00",
+      "ALMORA RIVAS, ENRIQUE",
+      "PRIMER CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "M",
+      "T",
+      "LU",
+      "14:00-17:00",
+      "LLAMOJA CURI, JOHNNY",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "M",
+      "P",
+      "VI",
+      "10:00-12:00",
+      "LLAMOJA CURI, JOHNNY",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "N",
+      "T",
+      "MI",
+      "14:00-17:00",
+      "ALVA NAVARRO, ROY",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "N",
+      "P",
+      "VI",
+      "10:00-12:0",
+      "ALVA NAVARRO, ROY",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "O",
+      "T",
+      "LU",
+      "10:00-13:00",
+      "DURAND BERNALD, LUIS",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "O",
+      "P",
+      "VI",
+      "10:00-12:00",
+      "DURAND BERNALD, LUIS",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "P",
+      "T",
+      "MI",
+      "10.00-13:00",
+      "DURAND BERNALD, LUIS",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "P",
+      "P",
+      "VI",
+      "10:00-12:00",
+      "CHIRINOS VILLARUEL, FERNANDO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "M",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "BUTLER BLACKER, JORGE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "M",
+      "L",
+      "SA",
+      "10:00-12:00",
+      "BUTLER BLACKER, JORGE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "N",
+      "T",
+      "MA",
+      "18:00-20:00",
+      "BUTLER BLACKER, JORGE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "N",
+      "L",
+      "MA",
+      "20.00-22:00",
+      "BUTLER BLACKER, JORGE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "O",
+      "T",
+      "SA",
+      "14:00-16:00",
+      "BUTLER BLACKER, JORGE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "O",
+      "L",
+      "SA",
+      "16:00-18:00",
+      "BUTLER BLACKER, JORGE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "P",
+      "T",
+      "MA",
+      "16:00-18:00",
+      "MIGUEL CAÑAMERO, JOSE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA09",
+      "ALGORITMOS Y ESTRUCTURA DE DATOS I",
+      "P",
+      "L",
+      "MA",
+      "18:00-20:00",
+      "MIGUEL CAÑAMERO, JOSE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "M",
+      "T",
+      "MI",
+      "16:00-18:00",
+      "ORIA CHAVARRIA, MARIO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "M",
+      "T",
+      "JU",
+      "10:00-12:00",
+      "ORIA CHAVARRIA, MARIO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "M",
+      "P",
+      "MA",
+      "08:00-10:00",
+      "ORIA CHAVARRIA, MARIO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "N",
+      "T",
+      "VI",
+      "14:00-16:00",
+      "ERQUIZIO ESPINAL, JOSE EDUARDO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "N",
+      "T",
+      "VI",
+      "08:00-10:00",
+      "ERQUIZIO ESPINAL, JOSE EDUARDO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "N",
+      "P",
+      "MA",
+      "08:00-10:00",
+      "ERQUIZIO ESPINAL, JOSE EDUARDO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "O",
+      "T",
+      "LU",
+      "14:00-16:00",
+      "SALINAS AQUIJE, TEOFILO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "O",
+      "T",
+      "JU",
+      "14:00-16:00",
+      "SALINAS AQUIJE, TEOFILO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BMA02",
+      "CÁLCULO INTEGRAL",
+      "O",
+      "P",
+      "MA",
+      "08:00-10:00",
+      "SALINAS AQUIJE, TEOFILO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "M",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "RODRIGUEZ MORALES, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "M",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "RODRIGUEZ MORALES, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "M",
+      "P",
+      "JU",
+      "08:00-10:00",
+      "RODRIGUEZ MORALES, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "M",
+      "L",
+      "JU",
+      "14:00-16:00",
+      "RODRIGUEZ MORALES, MARIA / MEDINA RODRIGUEZ, RAQUEL",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "N",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "MEDINA RODRIGUEZ, RAQUEL",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "N",
+      "T",
+      "JU",
+      "10:00-12:00",
+      "MEDINA RODRIGUEZ, RAQUEL",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "N",
+      "P/L",
+      "JU",
+      "08:00-10:00",
+      "MEDINA RODRIGUEZ, RAQUEL / GARAY CAUTI, ZOILA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "O",
+      "T",
+      "LU",
+      "08:00-10:00",
+      "RODRIGUEZ MORALES, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "O",
+      "T",
+      "MI",
+      "08:00-10:00",
+      "RODRIGUEZ MORALES, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "O",
+      "P",
+      "JU",
+      "08:00-10:00",
+      "RODRIGUEZ MORALES, MARIA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BQU01",
+      "QUÍMICA I",
+      "O",
+      "L",
+      "JU",
+      "11:00-13:00",
+      "RODRIGUEZ MORALES, MARIA /  GARAY CAUTI, ZOILA",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "M",
+      "T",
+      "JU",
+      "16:00-17:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "M",
+      "P",
+      "JU",
+      "17:00-19:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "N",
+      "T",
+      "MI",
+      "16:00-17:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "N",
+      "P",
+      "MI",
+      "17:00-19:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "O",
+      "T",
+      "LU",
+      "16:00-17:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BRC01",
+      "REDACCION Y COMUNICACION",
+      "O",
+      "P",
+      "LU",
+      "17:00-19:00",
+      "LEÓN CONTRERAS IRAIDA ARLENE",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "M",
+      "T",
+      "MA",
+      "18:00-19:00",
+      "BRICEÑO ARANDA, CESAR",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "M",
+      "L",
+      "MA",
+      "19:00-21:00",
+      "BRICEÑO ARANDA, CESAR",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "M",
+      "L",
+      "VI",
+      "19.00-21:00",
+      "BRICEÑO ARANDA, CESAR",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "N",
+      "T",
+      "VI",
+      "19:00-20:00",
+      "ROJAS VARGAS, CAROLYN",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "N",
+      "L",
+      "VI",
+      "20:00-22:00",
+      "ROJAS VARGAS, CAROLYN",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "N",
+      "L",
+      "SA",
+      "08.00-10:00",
+      "ROJAS VARGAS, CAROLYN",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "O",
+      "T",
+      "LU",
+      "19:00-20:00",
+      "PURILLA FLORES, FELIX",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "O",
+      "L",
+      "LU",
+      "20:00-22:00",
+      "PURILLA FLORES, FELIX",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "EE152",
+      "FUNDAMENTOS DE INGENIERÍA DEL COMPUTADOR",
+      "O",
+      "L",
+      "JU",
+      "20.00-22:00",
+      "PURILLA FLORES, FELIX",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "M",
+      "T",
+      "LU",
+      "14.00-16:00",
+      "PEÑA YALICO, VICENTE",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "M",
+      "T",
+      "VI",
+      "08:00-10:00",
+      "PEÑA YALICO, VICENTE",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "M",
+      "P/L",
+      "MI",
+      "08:00-10:00",
+      "PEÑA YALICO, VICENTE",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "N",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "DURAND BERNALD, LUIS",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "N",
+      "T",
+      "MI",
+      "16:00-18:00",
+      "DURAND BERNALD, LUIS",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "N",
+      "P",
+      "MI",
+      "08:00-10:00",
+      "DURAND BERNALD, LUIS",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "N",
+      "L",
+      "JU",
+      "10:00-12:00",
+      "DURAND BERNALD, LUIS",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "O",
+      "T",
+      "LU",
+      "08:00-10:00",
+      "ALVA NAVARRO, ROY",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "O",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "ALVA NAVARRO, ROY",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "O",
+      "P",
+      "MI",
+      "08:00-10:00",
+      "ALVA NAVARRO, ROY",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "O",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "ALVA NAVARRO, ROY",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "P",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "PEÑA YALICO, VICENTE",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "P",
+      "T",
+      "VI",
+      "10:00-12:00",
+      "PEÑA YALICO, VICENTE",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "P",
+      "P",
+      "MI",
+      "08:00-10:00",
+      "CHIRINOS VILLARUEL, FERNANDO",
+      "TERCER CICLO"
+    ],
+    [
+      "BFI03",
+      "FUNDAMENTOS DE ELECTRICIDAD, MAGNETISMO Y ÓPTICA",
+      "P",
+      "L",
+      "VI",
+      "14:00-16:00",
+      "CHIRINOS VILLARUEL, FERNANDO",
+      "TERCER CICLO"
+    ],
+    [
+      "BEG01",
+      "ECONOMÍA GENERAL",
+      "M",
+      "T",
+      "MA",
+      "10:00-12:00",
+      "VERA RONCALLA, CESAR",
+      "TERCER CICLO"
+    ],
+    [
+      "BEG01",
+      "ECONOMÍA GENERAL",
+      "M",
+      "P",
+      "VI",
+      "14:00-16:00",
+      "VERA RONCALLA, CESAR",
+      "TERCER CICLO"
+    ],
+    [
+      "BEG01",
+      "ECONOMÍA GENERAL",
+      "N",
+      "T",
+      "JU",
+      "10:00-12:00",
+      "CLAVIJO RAMOS, RAUL",
+      "TERCER CICLO"
+    ],
+    [
+      "BEG01",
+      "ECONOMÍA GENERAL",
+      "N",
+      "P",
+      "VI",
+      "14:00-16:00",
+      "CLAVIJO RAMOS, RAUL",
+      "TERCER CICLO"
+    ],
+    [
+      "BEG01",
+      "ECONOMÍA GENERAL",
+      "O",
+      "T",
+      "JU",
+      "16:00-18:00",
+      "HUMALA TASSO, ULISES",
+      "TERCER CICLO"
+    ],
+    [
+      "BEG01",
+      "ECONOMÍA GENERAL",
+      "O",
+      "P",
+      "VI",
+      "14:00-16:00",
+      "HUMALA TASSO, ULISES",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "M",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "CALLA MARIN, CARLOS",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "M",
+      "T",
+      "MA",
+      "14:00-16:00",
+      "CALLA MARIN, CARLOS",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "M",
+      "P",
+      "MA",
+      "16:00-18:00",
+      "CALLA MARIN, CARLOS",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "N",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "RAMIREZ GUTIERREZ, ANGEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "N",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "RAMIREZ GUTIERREZ, ANGEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "N",
+      "P",
+      "MA",
+      "16:00-18:00",
+      "ERQUIZIO ESPINAL, JOSE EDUARDO",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "O",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "CORNEJO HUAMAN, JORGE",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "O",
+      "T",
+      "VI",
+      "08:00-10:00",
+      "CORNEJO HUAMAN, JORGE",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA05",
+      "ECUACIONES DIFERENCIALES",
+      "O",
+      "P",
+      "MA",
+      "16:00-18:00",
+      "CORNEJO HUAMAN, JORGE",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "M",
+      "T",
+      "MA",
+      "08:00-10:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "M",
+      "P",
+      "JU",
+      "12:00-14:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "N",
+      "T",
+      "JU",
+      "08:00-10:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "N",
+      "P",
+      "JU",
+      "12:00-14:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "N",
+      "S",
+      "VI",
+      "11:00-13:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "O",
+      "T",
+      "MA",
+      "08:00-10:00",
+      "LÓPEZ ESQUIVEL, MIGUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "O",
+      "P",
+      "JU",
+      "12:00-14:00",
+      "LÓPEZ ESQUIVEL, MIGUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "P",
+      "T",
+      "MA",
+      "10.00-12:00",
+      "LÓPEZ ESQUIVEL, MIGUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "P",
+      "P",
+      "JU",
+      "12:00-14:00",
+      "LÓPEZ ESQUIVEL, MIGUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA10",
+      "PROBABILIDADES Y ESTADÍSTICA",
+      "P",
+      "S",
+      "JU",
+      "14:00-16:00",
+      "LÓPEZ ESQUIVEL, MIGUEL",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA15",
+      "PROGRAMACION ORIENTADA A OBJETOS",
+      "M",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "CASTILLO BELSUZARRI, TRINI",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA15",
+      "PROGRAMACION ORIENTADA A OBJETOS",
+      "M",
+      "L",
+      "MI",
+      "12:00-14:00",
+      "CASTILLO BELSUZARRI, TRINI",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA15",
+      "PROGRAMACION ORIENTADA A OBJETOS",
+      "N",
+      "T",
+      "MA",
+      "08:00-10:00",
+      "CASTILLO BELSUZARRI, TRINI",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA15",
+      "PROGRAMACION ORIENTADA A OBJETOS",
+      "N",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "CASTILLO BELSUZARRI, TRINI",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA15",
+      "PROGRAMACION ORIENTADA A OBJETOS",
+      "O",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "CASTILLO BELSUZARRI, TRINI",
+      "TERCER CICLO"
+    ],
+    [
+      "BMA15",
+      "PROGRAMACION ORIENTADA A OBJETOS",
+      "O",
+      "L",
+      "LU",
+      "12:00-14:00",
+      "CASTILLO BELSUZARRI, TRINI",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "M",
+      "T",
+      "LU",
+      "08.00-10:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "M",
+      "P/L",
+      "JU",
+      "08:00-10:00",
+      "PUICAN VERA, JOSE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "N",
+      "T",
+      "LU",
+      "14:00-16:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "N",
+      "P/L",
+      "JU",
+      "14:00-16:00",
+      "PUICAN VERA, JOSE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "O",
+      "T",
+      "LU",
+      "20:00-22:00",
+      "CHAVEZ CHACALTANA, ORLANDO",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "O",
+      "P/L",
+      "MI",
+      "18:00-20:00",
+      "CHAVEZ CHACALTANA, ORLANDO",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "P",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "CHAVEZ CHACALTANA, ORLANDO",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "P",
+      "P/L",
+      "MI",
+      "20:00-22:00",
+      "CHAVEZ CHACALTANA, ORLANDO",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "Q",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "Q",
+      "P/L",
+      "JU",
+      "10:00 -12:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "R",
+      "T",
+      "MA",
+      "14:00-16:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "TERCER CICLO"
+    ],
+    [
+      "EE306",
+      "ELECTROTECNIA E INSTALACION DE REDES",
+      "R",
+      "P/L",
+      "JU",
+      "10:00-12:00",
+      "PUICAN VERA, JOSE",
+      "TERCER CICLO"
+    ],
+    [
+      "BEF01",
+      "ETICA Y FILOSOFIA POLITICA",
+      "M",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "ATARAMA URBINA, ANCO LUIS",
+      "CUARTO CICLO"
+    ],
+    [
+      "BEF01",
+      "ETICA Y FILOSOFIA POLITICA",
+      "N",
+      "T",
+      "SA",
+      "10:00-12:00",
+      "ATARAMA URBINA, ANCO LUIS",
+      "CUARTO CICLO"
+    ],
+    [
+      "BEF01",
+      "ETICA Y FILOSOFIA POLITICA",
+      "O",
+      "T",
+      "SA",
+      "16:00-18:00",
+      "ARENALES SOLIS, JOSE CARLOS",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "M",
+      "T",
+      "LU",
+      "08:00-11:00",
+      "PAUYAC HUAMAN, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "M",
+      "P",
+      "JU",
+      "10:00-12:00",
+      "PAUYAC HUAMAN, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "N",
+      "T",
+      "MI",
+      "10.00-13:00",
+      "PAUYAC HUAMAN, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "N",
+      "P",
+      "JU",
+      "08:00-10:00",
+      "PAUYAC HUAMAN, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "O",
+      "T",
+      "MI",
+      "10:00-13:00",
+      "LLAMOJA CURI, JOHNNY",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "O",
+      "P",
+      "JU",
+      "08:00-10:00",
+      "LLAMOJA CURI, JOHNNY",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "P",
+      "T",
+      "VI",
+      "08:00-11:00",
+      "CARO AMERY. JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "P",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "CHIRINOS VILLARUEL, FERNANDO",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "Q",
+      "T",
+      "LU",
+      "14.00-17:00",
+      "ALVA NAVARRO, ROY",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFI06",
+      "INTRODUCCION A LA FISICA MODERNA",
+      "Q",
+      "P",
+      "MA",
+      "08:00-10:00",
+      "ALVA NAVARRO, ROY",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "M",
+      "T",
+      "VI",
+      "16:00-19:00",
+      "ROJAS CERNA, VICTOR",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "M",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "ROJAS CERNA, VICTOR",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "N",
+      "T",
+      "SA",
+      "14:00-17:00",
+      "ARIAS ANTONIO, LEANDRO",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "N",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "ARIAS ANTONIO, LEANDRO",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "O",
+      "T",
+      "MA",
+      "08:00-11:00",
+      "RAMIREZ GUTIERREZ, ANGEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "O",
+      "P",
+      "MA",
+      "08:00-10:00",
+      "ROJAS CERNA, VICTOR",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "P",
+      "T",
+      "MA",
+      "08:00-11:00",
+      "CALLA MARIN, CARLOS",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA07",
+      "CALCULO VECTORIAL",
+      "P",
+      "P",
+      "MI",
+      "10:00-12:00",
+      "CALLA MARIN, CARLOS",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "M",
+      "T",
+      "LU",
+      "14:00-16:00",
+      "MIGUEL CAÑAMERO, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "M",
+      "P/L",
+      "MA",
+      "14:00-16:00",
+      "MIGUEL CAÑAMERO, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "N",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "MIGUEL CAÑAMERO, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "N",
+      "P/L",
+      "JU",
+      "10:00-12:00",
+      "MIGUEL CAÑAMERO, JOSE",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "O",
+      "T",
+      "MA",
+      "14:00-16:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "O",
+      "P",
+      "MA",
+      "16:00-18:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "P",
+      "T",
+      "MI",
+      "08:00-10:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "P",
+      "P",
+      "MI",
+      "18:00-20:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "Q",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "BMA18",
+      "METODOS NUMERICOS",
+      "Q",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "M",
+      "T",
+      "MI",
+      "10:00-13:00",
+      "RAMOS CARRION, JORGE",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "M",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "RAMOS CARRION, JORGE",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "M",
+      "L",
+      "JU",
+      "08:00-10:00",
+      "RAMOS CARRION, JORGE",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "N",
+      "T",
+      "MI",
+      "14:00-17:00",
+      "NEGRON MARTINEZ, CONSUELO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "N",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "NEGRON MARTINEZ, CONSUELO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "N",
+      "P",
+      "VI",
+      "14:00-16:00",
+      "NEGRON MARTINEZ, CONSUELO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "O",
+      "T",
+      "VI",
+      "16:00-19:00",
+      "NEGRON MARTINEZ, CONSUELO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "O",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "NEGRON MARTINEZ, CONSUELO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "O",
+      "L",
+      "MA",
+      "11:00-13:00",
+      "WATERS TORRES, OSWALDO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "P",
+      "T",
+      "LU",
+      "17:00-20:00",
+      "TOKUMORI KIYOTA, SERGIO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "P",
+      "P",
+      "MA",
+      "17:00-19:00",
+      "TOKUMORI KIYOTA, SERGIO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "P",
+      "L",
+      "VI",
+      "08:00-10:00",
+      "TOKUMORI KIYOTA, SERGIO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "Q",
+      "T",
+      "MI",
+      "10:00-13:00",
+      "WATERS TORRES, OSWALDO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "Q",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "TOKUMORI KIYOTA, SERGIO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "Q",
+      "L",
+      "VI",
+      "10:00-12:00",
+      "TOKUMORI KIYOTA, SERGIO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "R",
+      "T",
+      "LU",
+      "14:00-17:00",
+      "WATERS TORRES, OSWALDO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "R",
+      "P",
+      "MI",
+      "14:00-16:00",
+      "WATERS TORRES, OSWALDO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE320",
+      "CIRCUITOS ELECTRICOS I",
+      "R",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "WATERS TORRES, OSWALDO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "M",
+      "T",
+      "MA",
+      "10:00-13:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "M",
+      "P",
+      "SA",
+      "08:00-10:00",
+      "DIAZ ACHA, ISRAEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "N",
+      "T",
+      "JU",
+      "16:00-19:00",
+      "ROJAS CERNA, VICTOR",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "N",
+      "P",
+      "MA",
+      "10:00-12:00",
+      "ROJAS CERNA, VICTOR",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "O",
+      "T",
+      "JU",
+      "16:00-19:00",
+      "VALENCIA MIRANDA, ANGEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "O",
+      "P",
+      "VI",
+      "18:00-20:00",
+      "VALENCIA MIRANDA, ANGEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "P",
+      "T",
+      "JU",
+      "17:00-20:00",
+      "ARIAS ANTONIO, LEANDRO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "P",
+      "P",
+      "VI",
+      "16:00-18:00",
+      "ARIAS ANTONIO, LEANDRO",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "Q",
+      "T",
+      "LU",
+      "19:00-22:00",
+      "VALENCIA MIRANDA, ANGEL",
+      "CUARTO CICLO"
+    ],
+    [
+      "EE410",
+      "ANALISIS DE SEÑALES Y SISTEMAS",
+      "Q",
+      "P",
+      "VI",
+      "18:00-20:00",
+      "ARIAS ANTONIO, LEANDRO",
+      "CUARTO CICLO"
+    ],
+    [
+      "BFM16",
+      "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "M",
+      "T",
+      "JU",
+      "16:00-18:00",
+      "VELAZCO LORENZO, DINAU",
+      "QUINTO CICLO"
+    ],
+    [
+      "BFM16",
+      "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "M",
+      "P",
+      "JU",
+      "18:00-20:00",
+      "VELAZCO LORENZO, DINAU",
+      "QUINTO CICLO"
+    ],
+    [
+      "BFM16",
+      "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "N",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "VELAZCO LORENZO, DINAU",
+      "QUINTO CICLO"
+    ],
+    [
+      "BFM16",
+      "MECANICA DE FLUIDOS Y TERMODINAMICA",
+      "N",
+      "P",
+      "LU",
+      "20:00-22:00",
+      "VELAZCO LORENZO, DINAU",
+      "QUINTO CICLO"
+    ],
+    [
+      "BMA22",
+      "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION",
+      "M",
+      "T",
+      "VI",
+      "16:00-19:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "BMA22",
+      "PROCESOS ESTOCASTICOS Y TEORIA DE LA INFORMACION",
+      "M",
+      "P",
+      "LU",
+      "14:00-16:00",
+      "ESPINOZA VÁSQUEZ, MANUEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE418",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
+      "M",
+      "T",
+      "LU",
+      "10:00-13:00",
+      "LAZO OCHOA, DOMINGO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE418",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
+      "M",
+      "P",
+      "MI",
+      "08:00-10:00",
+      "LAZO OCHOA, DOMINGO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE418",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
+      "N",
+      "T",
+      "MI",
+      "10:00-13:00",
+      "LAZO OCHOA, DOMINGO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE418",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
+      "N",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "LAZO OCHOA, DOMINGO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE418",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
+      "O",
+      "T",
+      "VI",
+      "10:00-13:00",
+      "LAZO OCHOA, DOMINGO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE418",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRONICOS I",
+      "O",
+      "P",
+      "VI",
+      "20:00-22:00",
+      "LAZO OCHOA, DOMINGO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "M",
+      "T",
+      "MI",
+      "16:00-19:00",
+      "BETETTA GOMEZ, JUDITH",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "M",
+      "P",
+      "MA",
+      "08:00-10:00",
+      "BETETTA GOMEZ, JUDITH",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "M",
+      "L",
+      "JU",
+      "14:00-16:00",
+      "BETETTA GOMEZ, JUDITH",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "N",
+      "T",
+      "VI",
+      "10.00-13:00",
+      "RAMOS CARRION, JORGE",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "N",
+      "P",
+      "MI",
+      "08:00-10:00",
+      "RAMOS CARRION, JORGE",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "N",
+      "L",
+      "VI",
+      "14:00-16:00",
+      "NN",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "O",
+      "T",
+      "MI",
+      "08.00-11:00",
+      "BETETTA GOMEZ, JUDITH",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "O",
+      "P",
+      "MA",
+      "10:00-12:00",
+      "BETETTA GOMEZ, JUDITH",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "O",
+      "L",
+      "VI",
+      "12:00-14:00",
+      "nn",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "P",
+      "T",
+      "MI",
+      "18:00-21:00",
+      "ROCHA JARA, ALFREDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "P",
+      "P",
+      "LU",
+      "18:00-20:00",
+      "ROCHA JARA, ALFREDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "P",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "ROCHA JARA, ALFREDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "Q",
+      "T",
+      "LU",
+      "15:00-18:00",
+      "ROCHA JARA, ALFREDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "Q",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "ROCHA JARA, ALFREDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE420",
+      "CIRCUITOS ELECTRICOS II",
+      "Q",
+      "L",
+      "MA",
+      "08:00-10:00",
+      "ROCHA JARA, ALFREDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE428",
+      "LABORATORIO DE ELECTRONICA I",
+      "M",
+      "L",
+      "JU",
+      "11:00-13:00",
+      "ALBURQUEQUE GUERRERO, ANGEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE428",
+      "LABORATORIO DE ELECTRONICA I",
+      "N",
+      "L",
+      "JU",
+      "08:00-10:00",
+      "ALBURQUEQUE GUERRERO, ANGEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE428",
+      "LABORATORIO DE ELECTRONICA I",
+      "O",
+      "L",
+      "MA",
+      "08:00-10:00",
+      "ALBURQUEQUE GUERRERO, ANGEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE428",
+      "LABORATORIO DE ELECTRONICA I",
+      "P",
+      "L",
+      "LU",
+      "10:00-12:00",
+      "ROMERO FUENTES, VIRGINIA",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE428",
+      "LABORATORIO DE ELECTRONICA I",
+      "Q",
+      "L",
+      "LU",
+      "12:00-14:00",
+      "ROMERO FUENTES, VIRGINIA",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "M",
+      "T",
+      "VI",
+      "15::00-18:00",
+      "DELGADO LEON, MIGUEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "M",
+      "P",
+      "LU",
+      "08:00-10:00",
+      "PEÑA YALICO, VICENTE",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "N",
+      "T",
+      "SA",
+      "08:00-11:00",
+      "PEÑA YALICO, VICENTE",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "N",
+      "P",
+      "VI",
+      "16:00-18:00",
+      "PEÑA YALICO, VICENTE",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "O",
+      "T",
+      "LU",
+      "09:00-12:00",
+      "DELGADO LEON, MIGUEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "O",
+      "P",
+      "JU",
+      "10.00-12:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "P",
+      "T",
+      "LU",
+      "09.00-12:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE522",
+      "ELECTROMAGNETISMO I",
+      "P",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "M",
+      "T",
+      "VI",
+      "19:00-22:00",
+      "AQUIZE PALACIOS, RUBEN",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "M",
+      "P",
+      "MA",
+      "16:00-18:00",
+      "AQUIZE PALACIOS, RUBEN",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "N",
+      "T",
+      "LU",
+      "14:00-17:00",
+      "MERCHAN GORDILLO, FERNANDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "N",
+      "P",
+      "MA",
+      "20:00-22:00",
+      "VALENZUELA DE LA CRUZ, BASILIO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "O",
+      "T",
+      "VI",
+      "14:00-17:00",
+      "MERCHAN GORDILLO, FERNANDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "O",
+      "P",
+      "JU",
+      "08.00-10:00",
+      "CARBONEL OLAZABAL, DANIEL",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "P",
+      "T",
+      "MI",
+      "08:00-11:00",
+      "MERCHAN GORDILLO, FERNANDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "P",
+      "P",
+      "MA",
+      "18:00-20:00",
+      "VALENZUELA DE LA CRUZ, BASILIO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "Q",
+      "T",
+      "MI",
+      "15:00-18:00",
+      "MERCHAN GORDILLO, FERNANDO",
+      "QUINTO CICLO"
+    ],
+    [
+      "EE647",
+      "SISTEMAS DE CONTROL I",
+      "Q",
+      "P",
+      "MI",
+      "20:00-22:00",
+      "VALENZUELA DE LA CRUZ, BASILIO",
+      "QUINTO CICLO"
+    ],
+    [
+      "BFM17",
+      "FUNDAMENTOS DE TURBOMAQUINAS",
+      "M",
+      "T",
+      "VI",
+      "14:00-16:00",
+      "VELAZCO LORENZO, DINAU",
+      "SEXTO CICLO"
+    ],
+    [
+      "BFM17",
+      "FUNDAMENTOS DE TURBOMAQUINAS",
+      "M",
+      "P",
+      "VI",
+      "16:00-18:00",
+      "VELAZCO LORENZO, DINAU",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "M",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "ROJAS VILLANUEVA, UWE",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "M",
+      "L",
+      "SA",
+      "10:00-12:00",
+      "ROJAS VILLANUEVA, UWE",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "N",
+      "T",
+      "MI",
+      "18.00-20:00",
+      "BENITEZ PALACIOS, JOSE",
+      "SEXTO CICLO"
+    ],
+    [
+      "BMA20",
+      "ALGORITMOS Y ESTRUCTURAS DE DATOS II",
+      "N",
+      "L",
+      "MI",
+      "20:00-22:00",
+      "BENITEZ PALACIOS, JOSE",
+      "SEXTO CICLO"
+    ],
+    [
+      "BRN93",
+      "REGULACION Y SUPERVISION DEL SECTOR ELECTRICO",
+      "M",
+      "T",
+      "SA",
+      "10:00 -12:00",
+      "SALVADOR JACOME, LEONCIO JULIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "BRN93",
+      "REGULACION Y SUPERVISION DEL SECTOR ELECTRICO",
+      "M",
+      "P",
+      "SA",
+      "12:00 - 14:00",
+      "SALVADOR JACOME, LEONCIO JULIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE238",
+      "MEDIDAS ELECTRICAS I",
+      "M",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE238",
+      "MEDIDAS ELECTRICAS I",
+      "M",
+      "L",
+      "JU",
+      "11:00-13:00",
+      "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE288",
+      "MÁQUINAS ELÉCTRICAS I",
+      "M",
+      "T",
+      "MA",
+      "10:00-13:00",
+      "CACERES CARDENAS, FELIX VICTOR",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE288",
+      "MÁQUINAS ELÉCTRICAS I",
+      "M",
+      "P",
+      "JU",
+      "09:00 - 11:00",
+      "CACERES CARDENAS, FELIX VICTOR",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE288",
+      "MÁQUINAS ELÉCTRICAS I",
+      "N",
+      "T",
+      "MA",
+      "10:00-13:00",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE288",
+      "MÁQUINAS ELÉCTRICAS I",
+      "N",
+      "P",
+      "JU",
+      "16:00-18:00",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE353",
+      "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "M",
+      "T",
+      "MI",
+      "14:00-17:00",
+      "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE353",
+      "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "M",
+      "P",
+      "MI",
+      "17:00-19:00",
+      "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE353",
+      "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "N",
+      "T",
+      "MI",
+      "14:00-17:00",
+      "ÑAUPARI HUATUCO, DIONICIO ZOCIMO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE353",
+      "ANALISIS DE SISTEMAS DE POTENCIA I",
+      "N",
+      "P",
+      "LU",
+      "20.00-22:00",
+      "BAUTISTA RIOS, JUAN PABLO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "M",
+      "T",
+      "LU",
+      "14:00-16:00",
+      "PERALTA ALFEREZ, FRANS",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "M",
+      "P",
+      "VI",
+      "18:00-20:00",
+      "JIMENEZ HEREDIA ELADIO ",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "M",
+      "L",
+      "MA",
+      "08:00-10:00",
+      "ROMERO FUENTES, VIRGINIA",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "N",
+      "T",
+      "VI",
+      "16:00-18:00",
+      "PERALTA ALFEREZ, FRANS",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "N",
+      "P",
+      "VI",
+      "20:00-22:00",
+      "JIMENEZ HEREDIA ELADIO ",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "N",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "ROMERO FUENTES, VIRGINIA",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "O",
+      "T",
+      "LU",
+      "19:00-21:00",
+      "JIMENEZ HEREDIA ELADIO ",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "O",
+      "P",
+      "MI",
+      "18:00-20:00",
+      "JIMENEZ HEREDIA ELADIO ",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE430",
+      "SISTEMAS DE COMUNICACIONES I",
+      "O",
+      "L",
+      "MA",
+      "18:00-20:00",
+      "JIMENEZ HEREDIA ELADIO ",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE438",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
+      "M",
+      "T",
+      "MI",
+      "10:00-13:00",
+      "LOPEZ ARAMBURU, FERNANDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE438",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
+      "M",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "LOPEZ ARAMBURU, FERNANDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE438",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
+      "N",
+      "T",
+      "VI",
+      "10:00-13:00",
+      "LOPEZ ARAMBURU, FERNANDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE438",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
+      "N",
+      "P",
+      "SA",
+      "08:00-10:00",
+      "LOPEZ ARAMBURU, FERNANDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE438",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
+      "O",
+      "T",
+      "MI",
+      "10.00-13:00",
+      "NUÑEZ CARRILLO, RICARDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE438",
+      "DISPOSITIVOS Y CIRCUITOS ELECTRÓNICOS II",
+      "O",
+      "P",
+      "SA",
+      "10:00-12:00",
+      "LOPEZ ARAMBURU, FERNANDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE449",
+      "INTRODUCCION A LA INGENIERIA BIOMEDICA",
+      "M",
+      "T",
+      "MA",
+      "18:00-20:00",
+      "ROMERO GOYTENDIA, LUIS",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE449",
+      "INTRODUCCION A LA INGENIERIA BIOMEDICA",
+      "M",
+      "P",
+      "JU",
+      "18:00-20:00",
+      "ROMERO GOYTENDIA, LUIS",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "M",
+      "L",
+      "JU",
+      "08:00-10:00",
+      "FLORES ATOCHE, BEAU",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "N",
+      "L",
+      "JU",
+      "14:00-16:00",
+      "FLORES ATOCHE, BEAU",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "O",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "ALBURQUEQUE GUERRERO, ANGEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "P",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "ALBURQUEQUE GUERRERO, ANGEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "Q",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "ROMERO FUENTES, VIRGINIA",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "R",
+      "L",
+      "MA",
+      "16:00-18:00",
+      "MENDOZA CARDENAS, FREDY",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE458",
+      "LABORATORIO DE ELECTRONICA II",
+      "S",
+      "L",
+      "MA",
+      "12:00-14:00",
+      "NUÑEZ CARRILLO, RICARDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "M",
+      "T",
+      "LU",
+      "16:00-19:00",
+      "DELGADO LEON, MIGUEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "M",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "DELGADO LEON, MIGUEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "N",
+      "T",
+      "VI",
+      "14:00-17:00",
+      "CAJAHUARINGA CAMACO, ARMANDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "N",
+      "P",
+      "JU",
+      "18:00-20:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "O",
+      "T",
+      "SA",
+      "08:00-11:00",
+      "ALVAREZ MONTOYA, JUAN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "O",
+      "P",
+      "MI",
+      "20:00-22:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "P",
+      "T",
+      "SA",
+      "11:00 - 14:00",
+      "ALVAREZ MONTOYA, JUAN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE588",
+      "ELECTROMAGNETISMO II",
+      "P",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "ALVAREZ MONTOYA, JUAN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "M",
+      "T",
+      "MA",
+      "13:00-15:00",
+      "ESTRADA MONTES, JOSE ALFREDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "M",
+      "L",
+      "MA",
+      "15:00-17:00",
+      "ESTRADA MONTES, JOSE ALFREDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "N",
+      "T",
+      "LU",
+      "08:00-10:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "N",
+      "L",
+      "LU",
+      "10:00-12:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "O",
+      "T",
+      "VI",
+      "18:00-20:00",
+      "BARRIGA HOYLE, JAVIER",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "O",
+      "L",
+      "VI",
+      "20:00-22:00",
+      "BARRIGA HOYLE, JAVIER",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "P",
+      "T",
+      "MI",
+      "08:00-10:00",
+      "MORALES VILLANUEVA, AURELIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "P",
+      "L",
+      "MI",
+      "20:00-22:00",
+      "BARRIGA HOYLE, JAVIER",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "Q",
+      "T",
+      "LU",
+      "08:00-10:00",
+      "MORALES VILLANUEVA, AURELIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "Q",
+      "L",
+      "LU",
+      "10:00-12:00",
+      "MORALES VILLANUEVA, AURELIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "R",
+      "T",
+      "JU",
+      "16:00-18:00",
+      "ESTRADA MONTES, JOSE ALFREDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE604",
+      "INTRODUCCION A MICROCONTROLADORES",
+      "R",
+      "L",
+      "JU",
+      "18:00-20:00",
+      "ESTRADA MONTES, JOSE ALFREDO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "M",
+      "T",
+      "MA",
+      "18:00-20:00",
+      "CARBONEL OLAZABAL, DANIEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "M",
+      "P",
+      "MI",
+      "08:00-10:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "M",
+      "L",
+      "JU",
+      "10:00-12:00",
+      "VALENZUELA DE LA CRUZ, BASILIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "N",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "CARBONEL OLAZABAL, DANIEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "N",
+      "P",
+      "MI",
+      "10:00-12:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "N",
+      "L",
+      "JU",
+      "16:00-18:00",
+      "VALENZUELA DE LA CRUZ, BASILIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "O",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "MACHUCA MINES, JOSE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "O",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "O",
+      "L",
+      "JU",
+      "12:00-14:00",
+      "VALENZUELA DE LA CRUZ, BASILIO",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "P",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "MACHUCA MINES, JOSE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "P",
+      "P",
+      "VI",
+      "12:00-14:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "P",
+      "L",
+      "LU",
+      "16:00-18:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "Q",
+      "T",
+      "MI",
+      "16:00-18:00",
+      "CARBONEL OLAZABAL, DANIEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "Q",
+      "P",
+      "JU",
+      "11:00-13.00",
+      "CARBONEL OLAZABAL, DANIEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE648",
+      "SISTEMAS DE CONTROL II",
+      "Q",
+      "L",
+      "LU",
+      "14:00-16:00",
+      "NN",
+      "SEXTO CICLO"
+    ],
+    [
+      "IP101",
+      "INGLES PROFESIONAL I",
+      "M",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "FERNANDEZ MALPARTIDA, WALTER MIGUEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "IP101",
+      "INGLES PROFESIONAL I",
+      "M",
+      "T",
+      "SA",
+      "12.00-14:00",
+      "FERNANDEZ MALPARTIDA, WALTER MIGUEL",
+      "SEXTO CICLO"
+    ],
+    [
+      "EE354",
+      "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "M",
+      "T",
+      "SA",
+      "12:00-15:00",
+      "KOC RUEDA, JOSE ELMER",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE354",
+      "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "M",
+      "P",
+      "SA",
+      "16:00-18:00",
+      "NN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE354",
+      "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "N",
+      "T",
+      "VI",
+      "15:00-18:00",
+      "BEDRIÑANA ARONES, MANFRED FRITZ",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE354",
+      "ANÁLISIS DE SISTEMAS DE POTENCIA II",
+      "N",
+      "P",
+      "SA",
+      "18:00-20:00",
+      "BEDRIÑANA ARONES, MANFRED FRITZ",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE235",
+      "DISEÑO DE MÁQUINAS ELÉCTRICAS I",
+      "M",
+      "T",
+      "JU",
+      "13:00-16:00",
+      "CARRANZA AREVALO, MANUEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE239",
+      "MEDIDAS ELECTRICAS II",
+      "M",
+      "T",
+      "VI",
+      "14:00-16:00",
+      "SANDOVAL RODRIGUEZ, ALBERTO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE239",
+      "MEDIDAS ELECTRICAS II",
+      "M",
+      "L",
+      "JU",
+      "09:00-11:00",
+      "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE239",
+      "MEDIDAS ELECTRICAS II",
+      "N",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE239",
+      "MEDIDAS ELECTRICAS II",
+      "N",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE241",
+      "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+      "M",
+      "L",
+      "VI",
+      "10:00-12:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE241",
+      "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+      "N",
+      "L",
+      "MA",
+      "12:00-14:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE241",
+      "LABORATORIO DE MÁQUINAS ELÉCTRICAS I",
+      "O",
+      "L",
+      "JU",
+      "12:00-14:00",
+      "FARFAN LIRA, JOSE ENRIQUE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE298",
+      "MÁQUINAS ELÉCTRICAS II",
+      "M",
+      "T",
+      "MA",
+      "19:00-22:00",
+      "ROJAS MIRANDA, LUIS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE298",
+      "MÁQUINAS ELÉCTRICAS II",
+      "M",
+      "P",
+      "JU",
+      "18:00-20:00",
+      "ROJAS MIRANDA, LUIS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE298",
+      "MÁQUINAS ELÉCTRICAS II",
+      "N",
+      "T",
+      "MA",
+      "16:00-19:00",
+      "ROJAS MIRANDA, LUIS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE298",
+      "MÁQUINAS ELÉCTRICAS II",
+      "N",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "ROJAS MIRANDA, LUIS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE528",
+      "CONVERSION DE ENERGIA ELECTROMECANICA",
+      "M",
+      "T",
+      "MA",
+      "08:00 -10:00",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE528",
+      "CONVERSION DE ENERGIA ELECTROMECANICA",
+      "M",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE528",
+      "CONVERSION DE ENERGIA ELECTROMECANICA",
+      "M",
+      "L",
+      "JU",
+      "10:00-12:00",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE528",
+      "CONVERSION DE ENERGIA ELECTROMECANICA",
+      "N",
+      "T",
+      "LU",
+      "10:00-12:00",
+      "GUTIERREZ  PAUCAR , AGUSTIN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE528",
+      "CONVERSION DE ENERGIA ELECTROMECANICA",
+      "N",
+      "P",
+      "VI",
+      "10:00-12:00",
+      "PUICAN VERA, JOSE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE528",
+      "CONVERSION DE ENERGIA ELECTROMECANICA",
+      "N",
+      "L",
+      "MA",
+      "10.00-12:00",
+      "PUICAN VERA, JOSE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "M",
+      "T",
+      "MI",
+      "16:00-19:00",
+      "MORENO MARTINEZ, RODOLFO MANUEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "M",
+      "P",
+      "MA",
+      "15:00-17:00",
+      "MORENO MARTINEZ, RODOLFO MANUEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "M",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "NUÑEZ CARRILLO, RICARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "N",
+      "T",
+      "SA",
+      "08:00-11:00",
+      "NUÑEZ ZUÑIGA, TERESA ESTHER",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "N",
+      "P",
+      "LU",
+      "18:00-20:00",
+      "NUÑEZ ZUÑIGA, TERESA ESTHER",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "N",
+      "L",
+      "LU",
+      "16:00-18:00",
+      "NUÑEZ ZUÑIGA, TERESA ESTHER",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "O",
+      "T",
+      "VI",
+      "16:00-19:00",
+      "MORENO MARTINEZ, RODOLFO MANUEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "O",
+      "P",
+      "LU",
+      "10:00 -12:00",
+      "NUÑEZ CARRILLO, RICARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "O",
+      "L",
+      "JU",
+      "10:00 -12:00",
+      "NUÑEZ CARRILLO, RICARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "Q",
+      "T",
+      "MI",
+      "10.00-13:00",
+      "TISZA CONTRERAS, JUAN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "Q",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "TISZA CONTRERAS, JUAN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE532",
+      "ELECTRONICA DE POTENCIA",
+      "Q",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE467",
+      "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
+      "M",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "DIAZ ATAUCURI, DANIEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE467",
+      "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
+      "M",
+      "L",
+      "LU",
+      "20:00-22:00",
+      "DIAZ ATAUCURI, DANIEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE467",
+      "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
+      "N",
+      "T",
+      "SA",
+      "12:00-14:00",
+      "DIAZ ATAUCURI, DANIEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE467",
+      "PROTOCOLOS DE ENRUTAMIENTO Y ARQUITECTURA DE REDES",
+      "N",
+      "L",
+      "SA",
+      "14:00-16:00",
+      "DIAZ ATAUCURI, DANIEL",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "M",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "PERALTA ALFEREZ, FRANS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "M",
+      "P",
+      "LU",
+      "11:00-13:00",
+      "RODRIGUEZ GUTIERREZ, ALFREDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "M",
+      "L",
+      "JU",
+      "10:00-12:00",
+      "FLORES ATOCHE, BEAU",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "N",
+      "T",
+      "VI",
+      "18:00-20:00",
+      "PERALTA ALFEREZ, FRANS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "N",
+      "P",
+      "LU",
+      "08:00-10:00",
+      "RODRIGUEZ GUTIERREZ, ALFREDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "N",
+      "L",
+      "MA",
+      "16:00-18:00",
+      "FLORES ATOCHE, BEAU",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "O",
+      "T",
+      "MI",
+      "16:00-18:00",
+      "PERALTA ALFEREZ, FRANS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "O",
+      "P",
+      "LU",
+      "14:00-16:00",
+      "RODRIGUEZ GUTIERREZ, ALFREDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "O",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "RODRIGUEZ GUTIERREZ, ALFREDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "P",
+      "T",
+      "LU",
+      "20:00-22:00",
+      "CORDOVA BERNUY, VICTOR",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "P",
+      "P",
+      "VI",
+      "16:00-18:00",
+      "CORDOVA BERNUY, VICTOR",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "P",
+      "L",
+      "JU",
+      "16:00-18:00",
+      "CORDOVA BERNUY, VICTOR",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "Q",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "PERALTA ALFEREZ, FRANS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "Q",
+      "P",
+      "MA",
+      "14:00-16:00",
+      "RODRIGUEZ GUTIERREZ, ALFREDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE530",
+      "SISTEMAS DE COMUNICACIONES II",
+      "Q",
+      "L",
+      "MA",
+      "08:00-10:00",
+      "RODRIGUEZ GUTIERREZ, ALFREDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE590",
+      "COMUNICACIONES POR FIBRA ÓPTICA",
+      "M",
+      "T",
+      "JU",
+      "18:00-20:00",
+      "BELLEZA ZAMORA, EDUARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE590",
+      "COMUNICACIONES POR FIBRA ÓPTICA",
+      "M",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "BELLEZA ZAMORA, EDUARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE590",
+      "COMUNICACIONES POR FIBRA ÓPTICA",
+      "M",
+      "L",
+      "SA",
+      "13.00-15:00",
+      "BELLEZA ZAMORA, EDUARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE590",
+      "COMUNICACIONES POR FIBRA ÓPTICA",
+      "N",
+      "T",
+      "VI",
+      "18:00-20:00",
+      "BELLEZA ZAMORA, EDUARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE590",
+      "COMUNICACIONES POR FIBRA ÓPTICA",
+      "N",
+      "P",
+      "VI",
+      "20:00-22:00",
+      "BELLEZA ZAMORA, EDUARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE590",
+      "COMUNICACIONES POR FIBRA ÓPTICA",
+      "N",
+      "L",
+      "SA",
+      "19:00-21:00",
+      "BELLEZA ZAMORA, EDUARDO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE593",
+      "SISTEMAS DE RADIOCOMUNICACION",
+      "M",
+      "T",
+      "MI",
+      "16:00-19:00",
+      "LOZANO SALAS, JULIO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE593",
+      "SISTEMAS DE RADIOCOMUNICACION",
+      "M",
+      "P",
+      "MI",
+      "19:00-21:00",
+      "LOZANO SALAS, JULIO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE658",
+      "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
+      "M",
+      "T",
+      "MI",
+      "08:00-10:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE658",
+      "REDES DE AUTOMATIZACION Y PROCESOS INDUSTRIALES",
+      "M",
+      "P",
+      "MI",
+      "10:00-12:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE644",
+      "DISEÑO LÓGICO DIGITAL",
+      "M",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "DIAZ ALIAGA, JULIO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE644",
+      "DISEÑO LÓGICO DIGITAL",
+      "M",
+      "P",
+      "MA",
+      "18:00-20:00",
+      "DIAZ ALIAGA, JULIO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE644",
+      "DISEÑO LÓGICO DIGITAL",
+      "M",
+      "L",
+      "LU",
+      "20:00-22:00",
+      "DIAZ ALIAGA, JULIO",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE644",
+      "DISEÑO LÓGICO DIGITAL",
+      "N",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "BRICEÑO ARANDA, CESAR",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE644",
+      "DISEÑO LÓGICO DIGITAL",
+      "N",
+      "P",
+      "MI",
+      "14:00-16:00",
+      "BRICEÑO ARANDA, CESAR",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE644",
+      "DISEÑO LÓGICO DIGITAL",
+      "N",
+      "L",
+      "VI",
+      "08:00 - 10:00",
+      "BRICEÑO ARANDA, CESAR",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE678",
+      "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "M",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "MEDINA RAMOS, CARLOS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE678",
+      "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "M",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "MEDINA RAMOS, CARLOS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE678",
+      "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "M",
+      "L",
+      "LU",
+      "14:00-16:00",
+      "NN",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE678",
+      "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "N",
+      "T",
+      "LU",
+      "14:00-16:00",
+      "MEDINA RAMOS, CARLOS",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE678",
+      "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "N",
+      "P",
+      "LU",
+      "10:00-12:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "EE678",
+      "INSTRUMENTACIÓN Y CONTROL DE PROCESOS INDUSTRIALES",
+      "N",
+      "L",
+      "MA",
+      "16:00-18:00",
+      "RAMIREZ HUAMAN, LUIS ENRIQUE",
+      "SEPTIMO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "M",
+      "T",
+      "MI",
+      "18:00-20:00",
+      "SALVADOR JACOME, LEONCIO JULIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "M",
+      "P",
+      "JU",
+      "18:00-20:00",
+      "SALVADOR JACOME, LEONCIO JULIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "N",
+      "T",
+      "MI",
+      "20:00-22:00",
+      "SALVADOR JACOME, LEONCIO JULIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "N",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "SALVADOR JACOME, LEONCIO JULIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "O",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "MONTES BAZALAR, LUIS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "O",
+      "P",
+      "SA",
+      "10:00-12:00",
+      "MONTES BAZALAR, LUIS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "P",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "SANDOVAL RODRIGUEZ, ALBERTO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "P",
+      "P",
+      "LU",
+      "16:00 - 18:00",
+      "SANDOVAL RODRIGUEZ, ALBERTO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "Q",
+      "T",
+      "MA",
+      "20:00-22:00",
+      "DEGREGORI CADENILLAS, LUIS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "BEG06",
+      "FORMULACIÓN Y EVALUACION DE PROYECTOS",
+      "Q",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "DEGREGORI CADENILLAS, LUIS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "CIB12",
+      "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "M",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "PIZAN TOSCANO, LUPE NERIDA",
+      "OCTAVO CICLO"
+    ],
+    [
+      "CIB12",
+      "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "M",
+      "P",
+      "VI",
+      "16:00-18:00",
+      "PIZAN TOSCANO, LUPE NERIDA",
+      "OCTAVO CICLO"
+    ],
+    [
+      "CIB12",
+      "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "N",
+      "T",
+      "MI",
+      "16:00-18:00",
+      "PIZAN TOSCANO, LUPE NERIDA",
+      "OCTAVO CICLO"
+    ],
+    [
+      "CIB12",
+      "APRENDIZAJE DE MAQUINA Y MINERIA DE DATOS",
+      "N",
+      "P",
+      "VI",
+      "14:00-16:00",
+      "PIZAN TOSCANO, LUPE NERIDA",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE225",
+      "MÁQUINAS ELÉCTRICAS III",
+      "M",
+      "T",
+      "MI",
+      "08:00-10:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE225",
+      "MÁQUINAS ELÉCTRICAS III",
+      "M",
+      "P",
+      "MI",
+      "10:00-12:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE242",
+      "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+      "M",
+      "L",
+      "JU",
+      "08:00-10:00",
+      "ROJAS MIRANDA, LUIS",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE242",
+      "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+      "N",
+      "L",
+      "MA",
+      "12:00-14:00",
+      "PUICAN VERA, JOSE",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE242",
+      "LABORATORIO DE MÁQUINAS ELÉCTRICAS II",
+      "O",
+      "L",
+      "MA",
+      "08:00-10:00",
+      "PUICAN VERA, JOSE",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE336",
+      "INGENIERIA DE ALTA TENSION",
+      "M",
+      "T",
+      "LU",
+      "16:00-19:00",
+      "YANQUE MONTUFAR, JUSTO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE336",
+      "INGENIERIA DE ALTA TENSION",
+      "M",
+      "L",
+      "LU",
+      "14:00-16:00",
+      "YANQUE MONTUFAR, JUSTO/SANDOVAL RODRIGUEZ, ALBERTO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE375",
+      "ESTABILIDAD DE SISTEMAS DE POTENCIA",
+      "M",
+      "T",
+      "JU",
+      "19:00-22:00",
+      "RAMIREZ ARCELLES, ROBERTO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE375",
+      "ESTABILIDAD DE SISTEMAS DE POTENCIA",
+      "M",
+      "P",
+      "MI",
+      "20:00-22:00",
+      "RAMIREZ ARCELLES, ROBERTO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE393",
+      "LINEAS DE TRANSMISION DE POTENCIA",
+      "M",
+      "T",
+      "VI",
+      "18:00-20:00",
+      "BAUTISTA RIOS, JUAN PABLO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE393",
+      "LINEAS DE TRANSMISION DE POTENCIA",
+      "M",
+      "P",
+      "VI",
+      "20:00-22:00",
+      "BAUTISTA RIOS, JUAN PABLO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE393",
+      "LINEAS DE TRANSMISION DE POTENCIA",
+      "N",
+      "T",
+      "VI",
+      "20:00-22:00",
+      "MORENO CUEVA, CESAR",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE393",
+      "LINEAS DE TRANSMISION DE POTENCIA",
+      "N",
+      "P",
+      "JU",
+      "20:00-22:00",
+      "MORENO CUEVA, CESAR",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE470",
+      "INSTALACIONES ELECTRICAS INDUSTRIALES",
+      "M",
+      "T",
+      "MA",
+      "14:00-17:00",
+      "ROSADO AGUIRRE, ESTANISLAO UBALDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE470",
+      "INSTALACIONES ELECTRICAS INDUSTRIALES",
+      "M",
+      "P",
+      "JU",
+      "14:00-16:00",
+      "ROSADO AGUIRRE, ESTANISLAO UBALDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE468",
+      "ELECTRÓNICA DE RADIOCOMUNICACIONES",
+      "M",
+      "T",
+      "MI",
+      "19:00-22:00",
+      "MENDOZA CARDENAS, FREDY",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE468",
+      "ELECTRÓNICA DE RADIOCOMUNICACIONES",
+      "M",
+      "P",
+      "JU",
+      "18:00-20:00",
+      "MENDOZA CARDENAS, FREDY",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE592",
+      "MICROONDAS",
+      "M",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "LOPEZ TAFUR, MARCIAL ANTONIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE592",
+      "MICROONDAS",
+      "M",
+      "P",
+      "LU",
+      "20:00-22:00",
+      "LOPEZ TAFUR, MARCIAL ANTONIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE592",
+      "MICROONDAS",
+      "M",
+      "L",
+      "JU",
+      "08:00-10:00",
+      "CAJAHUARINGA CAMACO, ARMANDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE592",
+      "MICROONDAS",
+      "N",
+      "T",
+      "MA",
+      "18:00-20:00",
+      "ALVAREZ MONTOYA, JUAN",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE592",
+      "MICROONDAS",
+      "N",
+      "P",
+      "MA",
+      "20:00-22:00",
+      "ALVAREZ MONTOYA, JUAN",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE592",
+      "MICROONDAS",
+      "N",
+      "L",
+      "JU",
+      "10:00-12:00",
+      "CAJAHUARINGA CAMACO, ARMANDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "CIB02",
+      "INGENIERIA DE SOFTWARE",
+      "M",
+      "T",
+      "SA",
+      "13:00-15:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "CIB02",
+      "INGENIERIA DE SOFTWARE",
+      "M",
+      "L",
+      "SA",
+      "15:00-17:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE594",
+      "ANTENAS",
+      "M",
+      "T",
+      "MA",
+      "18:00-20:00",
+      "LOPEZ TAFUR, MARCIAL ANTONIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE594",
+      "ANTENAS",
+      "M",
+      "P",
+      "MA",
+      "20:00-22:00",
+      "LOPEZ TAFUR, MARCIAL ANTONIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE596",
+      "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE",
+      "M",
+      "T",
+      "VI",
+      "18:00-20:00",
+      "PATTRONI CHAVEZ,  ARMANDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE596",
+      "SISTEMAS DE RADIODIFUSION Y TELEVISION POR CABLE",
+      "M",
+      "P",
+      "VI",
+      "20:00-22:00",
+      "PATTRONI CHAVEZ,  ARMANDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE598",
+      "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES",
+      "M",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "PATTRONI CHAVEZ,  ARMANDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE598",
+      "RADIODIFUSION DE VIDEO Y AUDIO DIGITALES",
+      "M",
+      "P",
+      "LU",
+      "20:00-22:00",
+      "PATTRONI CHAVEZ,  ARMANDO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE621",
+      "CONTROLES ELECTRICOS Y AUTOMATIZACION",
+      "M",
+      "T",
+      "MA",
+      "19:00-22:00",
+      "AQUIZE PALACIOS, RUBEN",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE621",
+      "CONTROLES ELECTRICOS Y AUTOMATIZACION",
+      "M",
+      "L",
+      "JU",
+      "18:00-20:00",
+      "AQUIZE PALACIOS, RUBEN",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE689",
+      "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
+      "M",
+      "T",
+      "JU",
+      "18:00-20:00",
+      "BARRIGA HOYLE, JAVIER",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE689",
+      "ARQUITECTURA DE MICROCONTROLADORES AVANZADOS",
+      "M",
+      "L",
+      "JU",
+      "20:00-22:00",
+      "BARRIGA HOYLE, JAVIER",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE681",
+      "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+      "M",
+      "T",
+      "MI",
+      "10:00-12:00",
+      "MORALES VILLANUEVA, AURELIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE681",
+      "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+      "M",
+      "P",
+      "VI",
+      "08:00-10:00",
+      "MORALES VILLANUEVA, AURELIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE681",
+      "ARQUITECTURA DE COMPUTADORAS DE PROCESAMIENTO PARALELO",
+      "M",
+      "L",
+      "VI",
+      "10:00-12:00",
+      "MORALES VILLANUEVA, AURELIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE508",
+      "INGENIERIA DE AUDIO Y VIDEO",
+      "M",
+      "T",
+      "VI",
+      "20:00-22:00",
+      "LOPEZ TAFUR, MARCIAL ANTONIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE508",
+      "INGENIERIA DE AUDIO Y VIDEO",
+      "M",
+      "P",
+      "VI",
+      "18:00-20:00",
+      "LOPEZ TAFUR, MARCIAL ANTONIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE693",
+      "SISTEMAS MICROELECTRONICOS INTEGRADOS",
+      "M",
+      "T",
+      "MI",
+      "18:00-20:00",
+      "ALARCON MATUTTI, RUBEN VIRGILIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE693",
+      "SISTEMAS MICROELECTRONICOS INTEGRADOS",
+      "M",
+      "L",
+      "MI",
+      "20:00-22:00",
+      "ALARCON MATUTTI, RUBEN VIRGILIO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE585",
+      "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
+      "M",
+      "T",
+      "SA",
+      "14:00-16:00",
+      "BEDRIÑANA ARONES, MANFRED FRITZ",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE585",
+      "TRANSITORIOS ELECTROMAGNETICOS EN SISTEMAS DE POTENCIA",
+      "M",
+      "L",
+      "SA",
+      "16:00-18:00",
+      "BEDRIÑANA ARONES, MANFRED FRITZ",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE672",
+      "ROBOTICA INDUSTRIAL",
+      "M",
+      "T",
+      "LU",
+      "20:00-22:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE672",
+      "ROBOTICA INDUSTRIAL",
+      "M",
+      "P",
+      "SA",
+      "18:00-20:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE672",
+      "ROBOTICA INDUSTRIAL",
+      "M",
+      "L",
+      "SA",
+      "20:00-22:00",
+      "GALVEZ LEGUA, MAURICIO PEDRO",
+      "OCTAVO CICLO"
+    ],
+    [
+      "EE676",
+      "CENTRALES ELÉCTRICAS I",
+      "M",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "ANTARA ARIAS, RONAL",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE676",
+      "CENTRALES ELÉCTRICAS I",
+      "M",
+      "P",
+      "MI",
+      "20:00-22:00",
+      "AGUILAR QUIROZ, RICARDO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE344",
+      "INGENIERÍA DE ILUMINACIÓN",
+      "M",
+      "T",
+      "JU",
+      "08:00-10:00",
+      "CHACALIAZA HUAPAYA, LUIS",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE344",
+      "INGENIERÍA DE ILUMINACIÓN",
+      "M",
+      "P",
+      "JU",
+      "10:00-12:00",
+      "CHACALIAZA HUAPAYA, LUIS",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE346",
+      "INSTALACIONES ELÉCTRICAS II",
+      "M",
+      "T",
+      "JU",
+      "16:00-19:00",
+      "HUAYLLASCO MONTALVA, CARLOS",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE346",
+      "INSTALACIONES ELÉCTRICAS II",
+      "M",
+      "P",
+      "VI",
+      "18:00-20:00",
+      "MORENO CUEVA, CESAR",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L1)",
+      "M",
+      "T",
+      "MA",
+      "16:00-18:00",
+      "FLORES TINOCO, MOISES ARISTE",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L1)",
+      "M",
+      "P/L",
+      "MI",
+      "16:00-20:00",
+      "FLORES TINOCO, MOISES ARISTE",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L1)",
+      "N",
+      "T",
+      "MA",
+      "16:00-18:00",
+      "CACERES CARDENAS, FELIX VICTOR",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L1)",
+      "N",
+      "P/L",
+      "VI",
+      "14:00-18:00",
+      "KOC RUEDA, JOSE ELMER",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "O",
+      "T",
+      "MI",
+      "20:00 - 22:00",
+      "CARBONEL OLAZABAL, DANIEL",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "O",
+      "P/L",
+      "VI",
+      "18:00-22:00",
+      "ATALAYA PISCO, CESAR AUGUSTO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "P",
+      "T",
+      "MA",
+      "18:00-20:00",
+      "FIGUEROA SANTOS, LUIS LEONCIO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "P",
+      "L",
+      "VI",
+      "16:00-20:00",
+      "FIGUEROA SANTOS, LUIS LEONCIO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "Q",
+      "T",
+      "MA",
+      "16:00-18:00",
+      "FIGUEROA SANTOS, LUIS LEONCIO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE445",
+      "PROYECTO FIN DE CARRERA (L2,L3)",
+      "Q",
+      "L",
+      "JU",
+      "14:00-18:00",
+      "FIGUEROA SANTOS, LUIS LEONCIO",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE498",
+      "LABORATORIO DE RADIOCOMUNICACIONES",
+      "M",
+      "L",
+      "MA",
+      "14:00-16:00",
+      "FLORES ATOCHE, BEAU",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE498",
+      "LABORATORIO DE RADIOCOMUNICACIONES",
+      "N",
+      "L",
+      "JU",
+      "14:00-16:00",
+      "ALBURQUEQUE GUERRERO, ANGEL",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE498",
+      "LABORATORIO DE RADIOCOMUNICACIONES",
+      "O",
+      "L",
+      "MA",
+      "10:00-12:00",
+      "FLORES ATOCHE, BEAU",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE625",
+      "CONTROL III",
+      "M",
+      "T",
+      "LU",
+      "18:00-21:00",
+      "MACHUCA MINES, JOSE",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE625",
+      "CONTROL III",
+      "M",
+      "P",
+      "VI",
+      "14:00-16:00",
+      "MACHUCA MINES, JOSE",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE698",
+      "LABORATORIO DE SISTEMAS ELECTRICOS DE POTENCIA",
+      "M",
+      "L",
+      "VI",
+      "14:00-16:00",
+      "MEDINA RAMIREZ, JOSE AGUSTIN",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE708",
+      "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES",
+      "M",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "TRONCOSO CASTRO, PAUL",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE708",
+      "SISTEMAS DE CONMUTACIÓN DE TELECOMUNICACIONES",
+      "M",
+      "P",
+      "MI",
+      "16:00-18:00",
+      "TRONCOSO CASTRO, PAUL",
+      "NOVENO CICLO"
+    ],
+    [
+      "CIB14",
+      "SISTEMAS OPERATIVOS",
+      "M",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "MENDOZA CARDENAS, FREDY",
+      "NOVENO CICLO"
+    ],
+    [
+      "CIB14",
+      "SISTEMAS OPERATIVOS",
+      "M",
+      "L",
+      "SA",
+      "10:00-12:00",
+      "MENDOZA CARDENAS, FREDY",
+      "NOVENO CICLO"
+    ],
+    [
+      "CIB54",
+      "GESTIÓN Y SEGURIDAD DE REDES",
+      "M",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "NEYRA HERRERA, MIGUEL",
+      "NOVENO CICLO"
+    ],
+    [
+      "CIB54",
+      "GESTIÓN Y SEGURIDAD DE REDES",
+      "M",
+      "L",
+      "LU",
+      "20:00-22:00",
+      "NEYRA HERRERA, MIGUEL",
+      "NOVENO CICLO"
+    ],
+    [
+      "CIB54",
+      "GESTIÓN Y SEGURIDAD DE REDES",
+      "N",
+      "T",
+      "SA",
+      "08:00-10.00",
+      "MARTINEZ CHINDA, RONALD",
+      "NOVENO CICLO"
+    ],
+    [
+      "CIB54",
+      "GESTIÓN Y SEGURIDAD DE REDES",
+      "N",
+      "L",
+      "SA",
+      "10.00-12:00",
+      "MARTINEZ CHINDA, RONALD",
+      "NOVENO CICLO"
+    ],
+    [
+      "EE316",
+      "CENTRALES ELÉCTRICAS II",
+      "M",
+      "T",
+      "SA",
+      "12:00-15:00",
+      "ANTARA ARIAS, RONAL",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE316",
+      "CENTRALES ELÉCTRICAS II",
+      "M",
+      "P",
+      "VI",
+      "20:00-22:00",
+      "AGUILAR QUIROZ, RICARDO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE376",
+      "PROTECCIÓN DE SISTEMAS DE POTENCIA",
+      "M",
+      "T",
+      "SA",
+      "10;00-12;00",
+      "ARROYO ARANA, CARLOS ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE376",
+      "PROTECCIÓN DE SISTEMAS DE POTENCIA",
+      "M",
+      "P",
+      "SA",
+      "17:0-19:00",
+      "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE385",
+      "VALUACION Y TARIFICACION DE LA ENERGIA ELECTRICA",
+      "M",
+      "T",
+      "VI",
+      "16.00-19:00",
+      "SANDOVAL RODRIGUEZ, ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE387",
+      "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
+      "M",
+      "T",
+      "MA",
+      "16:00-18:00",
+      "ZORRILLA ACOSTA, JOSE ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE387",
+      "PLANEAMIENTO DE PROYECTOS DE INGENIERIA ELECTRICA",
+      "M",
+      "P",
+      "MA",
+      "18:00-20:00",
+      "ZORRILLA ACOSTA, JOSE ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L1)",
+      "M",
+      "T",
+      "MA",
+      "14:00-16:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L1)",
+      "M",
+      "P",
+      "VI",
+      "14:00-18:00",
+      "CACERES CARDENAS, FELIX VICTOR",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L1)",
+      "N",
+      "T",
+      "LU",
+      "16.00-18:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L1)",
+      "N",
+      "P",
+      "MI",
+      "14:00-18:00",
+      "PALMA GARCIA, MODESTO TOMAS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L1)",
+      "O",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "ARROYO ARANA, CARLOS ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L1)",
+      "O",
+      "P",
+      "SA",
+      "13:00-17:00",
+      "ARROYO ARANA, CARLOS ALBERTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "P",
+      "T",
+      "MA",
+      "17:00-19:00",
+      "MEDINA RAMOS, CARLOS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "P",
+      "P",
+      "JU",
+      "16:00 - 20:00",
+      "MEDINA RAMOS, CARLOS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "Q",
+      "T",
+      "VI",
+      "16:00-18:00",
+      "TRONCOSO CASTRO, PAUL",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "Q",
+      "P",
+      "SA",
+      "17:00-21:00",
+      "DEGREGORI CADENILLAS, LUIS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "R",
+      "T",
+      "LU",
+      "20:00-22:00",
+      "ATALAYA PISCO, CESAR AUGUSTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "R",
+      "P",
+      "MI",
+      "18:00-22:00",
+      "ATALAYA PISCO, CESAR AUGUSTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "S",
+      "T",
+      "LU",
+      "20:00-22:00",
+      "LOZANO SALAS, JULIO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "S",
+      "P",
+      "SA",
+      "17:00-21:00",
+      "LOZANO SALAS, JULIO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "T",
+      "T",
+      "SA",
+      "12:00-14:00",
+      "MONTES BAZALAR, LUIS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE446",
+      "PROYECTO DE TESIS (L2,L3)",
+      "T",
+      "P",
+      "VI",
+      "18:00-22:00",
+      "DIAZ ZEGARRA, JOSE",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE679",
+      "SUBESTACIONES ELÉCTRICAS",
+      "M",
+      "T",
+      "LU",
+      "18:00-20:00",
+      "BAUTISTA RIOS, JUAN PABLO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE679",
+      "SUBESTACIONES ELÉCTRICAS",
+      "M",
+      "P",
+      "MI",
+      "20:00-22:00",
+      "BAUTISTA RIOS, JUAN PABLO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE679",
+      "SUBESTACIONES ELÉCTRICAS",
+      "N",
+      "T",
+      "MA",
+      "20:00-22:00",
+      "FLORES TINOCO, MOISES ARISTE",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE679",
+      "SUBESTACIONES ELÉCTRICAS",
+      "N",
+      "P",
+      "MI",
+      "20.00-22:00",
+      "NN",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE712",
+      "PLANIFICACION DE REDES DE TELECOMUNICACIONES",
+      "M",
+      "T",
+      "JU",
+      "18:00-20:00",
+      "MONTES BAZALAR, LUIS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE712",
+      "PLANIFICACION DE REDES DE TELECOMUNICACIONES",
+      "M",
+      "L",
+      "JU",
+      "20:00-22:00",
+      "MONTES BAZALAR, LUIS",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE548",
+      "REDES INALAMBRICAS Y MOVILES",
+      "M",
+      "P",
+      "LU",
+      "14:00-16:00",
+      "TRONCOSO CASTRO, PAUL",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE548",
+      "REDES INALAMBRICAS Y MOVILES",
+      "M",
+      "T",
+      "LU",
+      "16:00-18:00",
+      "TRONCOSO CASTRO, PAUL",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE718",
+      "SISTEMAS DE CONTROL AVANZADO",
+      "M",
+      "T",
+      "MI",
+      "18:00-20:00",
+      "MACHUCA MINES, JOSE",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE718",
+      "SISTEMAS DE CONTROL AVANZADO",
+      "M",
+      "P",
+      "JU",
+      "16:00-18:00",
+      "MACHUCA MINES, JOSE",
+      "DECIMO CICLO"
+    ],
+    [
+      "BRN35",
+      "REGULACIÓN Y MERCADO DE LAS TELECOMUNICACIONES",
+      "M",
+      "T",
+      "MA",
+      "16:00-18:00",
+      "ATALAYA PISCO, CESAR AUGUSTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "BRN35",
+      "REGULACIÓN Y MERCADO DE LAS TELECOMUNICACIONES",
+      "M",
+      "P",
+      "MA",
+      "18:00-20:00",
+      "ATALAYA PISCO, CESAR AUGUSTO",
+      "DECIMO CICLO"
+    ],
+    [
+      "CIB28",
+      "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
+      "M",
+      "T",
+      "MI",
+      "14:00-16:00",
+      "GAMARRA QUISPE, SEGUNDO",
+      "DECIMO CICLO"
+    ],
+    [
+      "CIB28",
+      "VISIÓN Y ANÁLISIS DE IMÁGENES POR COMPUTADOR",
+      "M",
+      "L",
+      "MI",
+      "16:00-18:00",
+      "GAMARRA QUISPE, SEGUNDO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE469",
+      "ARQUITECTURA DE CENTROS DE DATOS",
+      "M",
+      "T",
+      "VI",
+      "14:00-16:00",
+      "BENITEZ PALACIOS, JOSE",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE469",
+      "ARQUITECTURA DE CENTROS DE DATOS",
+      "M",
+      "L",
+      "VI",
+      "16:00-18:00",
+      "BENITEZ PALACIOS, JOSE",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE469",
+      "ARQUITECTURA DE CENTROS DE DATOS",
+      "N",
+      "T",
+      "SA",
+      "08:00-10:00",
+      "GARRO MOREY, ARTURO EDUARDO",
+      "DECIMO CICLO"
+    ],
+    [
+      "EE469",
+      "ARQUITECTURA DE CENTROS DE DATOS",
+      "N",
+      "L",
+      "SA",
+      "10:00-12.00",
+      "GARRO MOREY, ARTURO EDUARDO",
+      "DECIMO CICLO"
+    ]
+  ]
+}

@@ -105,234 +105,233 @@ function pdfAsArray(pdfAsArray) {
             for (var i=0; i < data_clean.length / 7; i++){
                 data.push([data_clean[7*i], data_clean[7*i + 1], data_clean[7*i + 2], data_clean[7*i + 3], data_clean[7*i + 4], data_clean[7*i + 5], data_clean[7*i + 6]]);
             }
-            
-
             //Course per ciclo
-            ciclo_1 = ['BFI01', 'BIC01', 'BMA01', 'BMA03', 'BRN01', 'EE250']
-            ciclo_2 = ['BFI05', 'BMA09', 'BMA02', 'BQU01', 'BRC01', 'EE152']
-            ciclo_3 = ['BFI03', 'BEG01', 'BMA05', 'BMA10', 'BMA15', 'EE306']
-            ciclo_4 = ['BEF01', 'BFI06', 'BMA07', 'BMA18', 'EE320', 'EE410']
-            ciclo_5 = ['BFM16', 'BMA22', 'EE418', 'EE420', 'EE428', 'EE522', 'EE647']
-            ciclo_6 = ['BFM17', 'BMA20', 'CIB12', 'EE238', 'BFM12', 'EE288', 'EE353', 'IP101', 'EE430', 'EE438', 'EE449', 'EE458', 'EE588', 'EE604', 'EE648', 'BRN93']
-            ciclo_7 = ['EE354', 'EE235', 'EE239', 'EE241', 'EE298', 'EE528', 'EE532', 'EE467', 'EE530', 'EE590', 'EE593', 'EE658', 'EE644', 'EE678']
-            ciclo_8 = ['BEG06', 'EE225', 'EE242', 'EE336', 'EE375', 'EE393', 'EE470', 'EE468', 'EE592', 'CIB02', 'EE594', 'EE596', 'EE598', 'EE621', 'EE689', 'EE681', 'EE704', 'EE508', 'EE693', 'EE585', 'EE672']
-            ciclo_9 = ['EE676', 'EE344', 'EE346', 'EE445', 'EE498', 'EE625', 'EE698', 'EE708', 'CIB14']
-            ciclo_10 = ['CIB54', 'EE316', 'EE376', 'EE385', 'EE387', 'EE446', 'EE679', 'EE712', 'EE548', 'EE735', 'EE718', 'BRN35', 'CIB28', 'EE469']
-
+            const ciclo_1 = ['BFI01', 'BIC01', 'BMA01', 'BMA03', 'BRN01', 'EE250'];
+            const ciclo_2 = ['BFI05', 'BMA09', 'BMA02', 'BQU01', 'BRC01', 'EE152'];
+            const ciclo_3 = ['BFI03', 'BEG01', 'BMA05', 'BMA10', 'BMA15', 'EE306'];
+            const ciclo_4 = ['BEF01', 'BFI06', 'BMA07', 'BMA18', 'EE320', 'EE410'];
+            const ciclo_5 = ['BFM16', 'BMA22', 'EE418', 'EE420', 'EE428', 'EE522', 'EE647'];
+            const ciclo_6 = ['BFM17','BMA20','BRN93','EE238','EE288','EE353','EE430','EE438','EE449','EE458','EE588','EE604','EE648','IP101'];
+            const ciclo_7 = ['EE354', 'EE235', 'EE239', 'EE241', 'EE298', 'EE528', 'EE532', 'EE467', 'EE530', 'EE590', 'EE593', 'EE658', 'EE644', 'EE678'];
+            const ciclo_8 = ['BEG06','CIB12', 'EE225', 'EE242', 'EE336', 'EE375', 'EE393', 'EE470', 'EE468', 'EE592', 'CIB02', 'EE594', 'EE596', 'EE598', 'EE621', 'EE689', 'EE681', 'EE508', 'EE693', 'EE585', 'EE672'];
+            const ciclo_9 = ['EE676', 'EE344', 'EE346', 'EE445', 'EE498', 'EE625', 'EE698', 'EE708', 'CIB14', 'CIB54'];
+            const ciclo_10 = ['EE316', 'EE376', 'EE385', 'EE387', 'EE446', 'EE679', 'EE712', 'EE548','EE718', 'BRN35','CIB28', 'EE469'];
+            
             //forms the first keys
             json_data = [];
             for (var i = 0; i < data.length; i++){
                 if (ciclo_1.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 1,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 1,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_2.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 2,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 2,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_3.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 3,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 3,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_4.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 4,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 4,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_5.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 5,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 5,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_6.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 6,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 6,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_7.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 7,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 7,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_8.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 8,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 8,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_9.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 9,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 9,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
                 if (ciclo_10.includes(data[i][0])){
                     if (i === 0){
                         json_data.push({
-                            'Codigo' : data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 10,
+                            'Codigo' : data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })
                     }
                     else if (data[i][0] != data[i-1][0]) {
                         json_data.push({
-                            'Codigo': data[i][0],
-                            //'Nombre': data[i][1].trim(),
                             'Ciclo': 10,
+                            'Codigo': data[i][0],
                             'Secciones': [],
+                            // 'Nombre': data[i][1].trim(),
                         })  
                     }   
                 }
             }
-            
             //forms the keys of seccion
             var count = 0
             for (var i=0; i < data.length; i++){
-                if (data[i][0] == json_data[count]['Codigo']){
-                    if (i==0){
-                        let obj = {};
-                        obj[data[i][2]] = [];
-                        json_data[count]['Secciones'].push(obj);
+                let obj = {}; 
+                if(count < json_data.length){
+                    if (data[i][0] == json_data[count]['Codigo']){
+                        if (i==0){
+                            obj[data[i][2]] = [];
+                            json_data[count]['Secciones'].push(obj);
+                        }
+                        else if (data[i][2] != data[i-1][2]){
+                            obj[data[i][2]] = [];
+                            json_data[count]['Secciones'].push(obj);
+                        }
                     }
-                    else if (data[i][2] != data[i-1][2]){
-                        let obj = {};
-                        obj[data[i][2]] = [];
-                        json_data[count]['Secciones'].push(obj);
+                    else{
+                        count++;
+                        if(count < json_data.length){
+                            console.log(json_data);
+                            obj[data[i][2]] = [];
+                            json_data[count]['Secciones'].push(obj);
+                        }
                     }
-                }
-                else{
-                    count++;
-                    let obj = {};
-                    obj[data[i][2]] = [];
-                    json_data[count]['Secciones'].push(obj);
                 }
             }
-
+            
             //Fill
-
             for (var j = 0; j < json_data.length; j++){
                 var count = 0;
                 for (var i = 0; i < data.length; i++){
-                    for (var key in json_data[0]['Secciones'][count]){
+                    for (var key in json_data[j]['Secciones'][count]){
                         if ((data[i][2] == key) && (data[i][0] == json_data[j]['Codigo'])){
                             json_data[j]['Secciones'][count][data[i][2]].push({
                                 'Tipo': data[i][3],
@@ -360,102 +359,104 @@ function pdfAsArray(pdfAsArray) {
             console.log(json_data);
 
             //Second JSON
+            console.log(typeof(data[0][0]));
             json_data_2 = {"data": []};
             for (var i = 0; i < data.length; i++){
-                if(data[i][0].includes(ciclo_1)){
+                if(ciclo_1.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "PRIMER CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_2)){
+                }else if(ciclo_2.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "SEGUNDO CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_3)){
+                }else if(ciclo_3.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "TERCER CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_4)){
+                }else if(ciclo_4.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "CUARTO CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_5)){
+                }else if(ciclo_5.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "QUINTO CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_6)){
+                }else if(ciclo_6.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "SEXTO CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_7)){
+                }else if(ciclo_7.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "SEPTIMO CICLO",
                     ]);
-                }
-                else if(data[i][1].includes(ciclo_8)){
+                }else if(ciclo_8.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "OCTAVO CICLO",
                     ]);    
-                }
-                else if(data[i][1].includes(ciclo_9)){
+                }else if(ciclo_9.includes(data[i][0])){
                     json_data_2.data.push([
                         data[i][0],
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "NOVENO CICLO",
@@ -467,15 +468,15 @@ function pdfAsArray(pdfAsArray) {
                         data[i][1].trim(),
                         data[i][2],
                         data[i][3],
+                        data[i][4],
                         data[i][5],
                         data[i][6],
                         "DECIMO CICLO",
                     ]);    
                 }
             }
-            console.log(json_data_2);
-
         });
+
 
     }, function (reason) {
         // PDF loading error
@@ -492,11 +493,11 @@ function download(content, fileName, contentType){
 }
 
 function getJson(){
-    download(JSON.stringify(json), 'horario.json', "text/plain")
+    download(JSON.stringify(json_data), 'horarioUltimo.json', "text/plain")
 }
 
 function getJson2(){
-    download(JSON.stringify(json_data_2), 'horarioUltimo.json', "text/plain");
+    download(JSON.stringify(json_data_2), 'horarios.json', "text/plain");
 }
 
     
