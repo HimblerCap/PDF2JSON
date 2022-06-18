@@ -345,7 +345,7 @@ function pdfAsArray(pdfAsArray) {
                             if (count < json_data[j]['Secciones'].length){
                                 json_data[j]['Secciones'][count][data[i][2]].push({
                                     'Tipo': data[i][3],
-                                    'Día': data[i][4],
+                                    'Dia': data[i][4],
                                     'Hora': data[i][5],
                                     'Profesor': data[i][6],
                                 })

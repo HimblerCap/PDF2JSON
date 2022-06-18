@@ -1715,7 +1715,7 @@
       "CALCULO VECTORIAL",
       "O",
       "T",
-      "MA",
+      "SA",
       "08:00-11:00",
       "RAMIREZ GUTIERREZ, ANGEL",
       "CUARTO CICLO"
@@ -3413,7 +3413,7 @@
     [
       "IP101",
       "INGLES PROFESIONAL I",
-      "M",
+      "N",
       "T",
       "SA",
       "12.00-14:00",
@@ -3786,7 +3786,7 @@
       "N",
       "T",
       "SA",
-      "12:00-14:00",
+      "14:00-16:00",
       "DIAZ ATAUCURI, DANIEL",
       "SEPTIMO CICLO"
     ],
@@ -3796,7 +3796,7 @@
       "N",
       "L",
       "SA",
-      "14:00-16:00",
+      "16:00-18:00",
       "DIAZ ATAUCURI, DANIEL",
       "SEPTIMO CICLO"
     ],
@@ -4465,7 +4465,7 @@
       "ELECTRÓNICA DE RADIOCOMUNICACIONES",
       "M",
       "T",
-      "MI",
+      "VI",
       "19:00-22:00",
       "MENDOZA CARDENAS, FREDY",
       "OCTAVO CICLO"
@@ -4476,7 +4476,7 @@
       "M",
       "P",
       "JU",
-      "18:00-20:00",
+      "20:00-22:00",
       "MENDOZA CARDENAS, FREDY",
       "OCTAVO CICLO"
     ],
@@ -5115,8 +5115,8 @@
       "PROTECCIÓN DE SISTEMAS DE POTENCIA",
       "M",
       "P",
-      "SA",
-      "17:0-19:00",
+      "MA",
+      "20:00-22:00",
       "VENTOSILLA ZEVALLOS, MOISES ODAVIO",
       "DECIMO CICLO"
     ],
